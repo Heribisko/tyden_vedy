@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 
 # Parameters
 n = 9  # recursion depth
-angle_pos = np.pi / 5 # +60 degrees
-angle_neg = -np.pi / 2
+angle_pos = np.pi / 3 # +60 degrees
+angle_neg = -np.pi / 3
 
 # L-system rules
 rules = {
