@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
-phi = (1-np.sqrt(5))/2
+phi = np.pi
 m = np.arange(1, 1500)
 theta = 2 * np.pi * m / phi
 r = np.sqrt(m)
